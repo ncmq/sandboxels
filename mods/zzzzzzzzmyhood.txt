@@ -1,0 +1,5 @@
+5.5.0
+CF0E5CB24874720C;goldentrophy
+nig-
+UnityTempFile-8e79918dcea7d684f8d517406813ed80;;UnityTempFile-8e79918dcea7d684f8d517406813ed80;;2;;2
+NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
